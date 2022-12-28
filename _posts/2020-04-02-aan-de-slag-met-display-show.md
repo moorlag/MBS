@@ -2,34 +2,7 @@
 id: 652
 title: 'Plaatjes met Python'
 date: '2020-04-02T11:17:46+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=652'
-permalink: /aan-de-slag-met-display-show/
-spay_email:
-    - ''
-twitterCardType:
-    - ''
-cardImageID:
-    - '0'
-cardImage:
-    - ''
-cardTitle:
-    - ''
-cardDesc:
-    - ''
-cardImageAlt:
-    - ''
-cardPlayer:
-    - ''
-cardPlayerWidth:
-    - '0'
-cardPlayerHeight:
-    - '0'
-cardPlayerStream:
-    - ''
-cardPlayerCodec:
-    - ''
+last_modified_at: '2022-12-28T00:00:00+00:00'
 categories:
     - Experimenten
     - μPython
@@ -44,7 +17,7 @@ Met MicroPython kun je ‘eenvoudig’ plaatjes oproepen. Deze zitten al in de c
 display.show(Image.HAPPY)
 ```
 
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-medium">![HAPPY met display.show. ](https://i0.wp.com/microbit.studio/wp-content/uploads/2020/04/happy-300x245.png?resize=300%2C245&ssl=1)<figcaption>Display.show(Image.HAPPY)</figcaption></figure></div>## Hoe werkt Display.show? 
+## Hoe werkt Display.show? 
 
 Met display.show(waarde) zeggen we dat het object display iets moet laten zien (show). Door het gebruik van de haakjes laten we niet alles zien, maar alleen waarde ‘HAPPY’. Er is een hele lijst met onderdelen. Die laten ik hieronder zien, zoals je hieronder ziet zijn veel plaatjes voor de hand liggend.
 
@@ -64,8 +37,6 @@ Met display.show(waarde) zeggen we dat het object display iets moet laten zien (
 - `Image.NO`
 - Tijdstippen met een klok
     - `Image.CLOCK12`
-    
-    
     - `Image.CLOCK11`
     - `Image.CLOCK10`
     - `Image.CLOCK9`

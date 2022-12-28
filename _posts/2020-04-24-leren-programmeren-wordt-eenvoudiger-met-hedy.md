@@ -1,39 +1,11 @@
 ---
-id: 663
 title: 'Leren programmeren wordt eenvoudiger met Hedy!'
 date: '2020-04-24T09:38:47+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=663'
-permalink: /leren-programmeren-wordt-eenvoudiger-met-hedy/
-spay_email:
-    - ''
-twitterCardType:
-    - ''
-cardImageID:
-    - '0'
-cardImage:
-    - ''
-cardTitle:
-    - ''
-cardDesc:
-    - ''
-cardImageAlt:
-    - ''
-cardPlayer:
-    - ''
-cardPlayerWidth:
-    - '0'
-cardPlayerHeight:
-    - '0'
-cardPlayerStream:
-    - ''
-cardPlayerCodec:
-    - ''
-image: /wp-content/uploads/2020/04/joel-filipe-jU9VAZDGMzs-unsplash-scaled-88x88.jpg
+last_modified_at: '2022-12-28T00:00:00+00:00'
 categories:
     - CAS-NL
     - Experimenten
+    - Nieuws
 tags:
     - hedy
     - programmeren
@@ -44,7 +16,7 @@ tags:
 
 ## De *eerste* graduale programmeertaal.
 
-![](https://i0.wp.com/microbit.studio/wp-content/uploads/2020/03/Hedy_logo_web.png?resize=616%2C616)Het leren programmeren is een vak apart. Felienne Hermans heeft al een rijke geschiedenis op het gebied van leren programmeren. Haar ervaringen heeft ze gebundeld in [Scratch in de klas](https://www.edx.org/course/scratch-programmeren-voor-kinderen-8#!) en sindskort komt daar Hedy bij. Hedy zorgt voor een stap tussen een blokkentaal, zoals Scratch en een geschreven programeertaal zoals Python. Om Python direct te leren heeft ze al eens een cursus [Python in de klas opgezet](http://pythonindeklas.nl/).
+![](/asset/simawp-content/uploads/2020/03/Hedy_logo_web.png?resize=616%2C616)Het leren programmeren is een vak apart. Felienne Hermans heeft al een rijke geschiedenis op het gebied van leren programmeren. Haar ervaringen heeft ze gebundeld in [Scratch in de klas](https://www.edx.org/course/scratch-programmeren-voor-kinderen-8#!) en sindskort komt daar Hedy bij. Hedy zorgt voor een stap tussen een blokkentaal, zoals Scratch en een geschreven programeertaal zoals Python. Om Python direct te leren heeft ze al eens een cursus [Python in de klas opgezet](http://pythonindeklas.nl/).
 
 > Ze zag dat er een gat zat tussen een blokkentaal en een ‘geschreven’ taal.
 
