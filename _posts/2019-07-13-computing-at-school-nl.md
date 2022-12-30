@@ -2,19 +2,13 @@
 id: 496
 title: 'Computing at school Netherlands'
 date: '2019-07-13T05:40:20+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=496'
-permalink: /computing-at-school-nl/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2017/07/spacex-71873-88x88.jpg
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - CAS-NL
     - Experimenten
 ---
 
-# **Goals computing at school Netherlands**
+*Goals computing at school Netherlands**
 
 (draft CAS-NL alpha-0.4 based on [CAS-UK](https://www.computingatschool.org.uk))
 

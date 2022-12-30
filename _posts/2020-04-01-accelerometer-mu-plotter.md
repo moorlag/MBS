@@ -2,34 +2,7 @@
 id: 644
 title: 'MU &#8211; Python &#8211; Accelerometer'
 date: '2020-04-01T19:02:09+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=644'
-permalink: /accelerometer-mu-plotter/
-spay_email:
-    - ''
-twitterCardType:
-    - summary_large_image
-cardImageID:
-    - '0'
-cardImage:
-    - ''
-cardTitle:
-    - ''
-cardDesc:
-    - ''
-cardImageAlt:
-    - ''
-cardPlayer:
-    - ''
-cardPlayerWidth:
-    - '0'
-cardPlayerHeight:
-    - '0'
-cardPlayerStream:
-    - ''
-cardPlayerCodec:
-    - ''
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - Experimenten
     - μPython
@@ -39,7 +12,7 @@ Vandaag ben ik begonnen met een dagelijkse challenge. Iedere dag iets nieuws voo
 
 Met dit script kun je de XYZ-sensor (ook wel accelerometer) uitlezen en op een grafiek laten zien. De code hiervoor staat onderaan de pagina. Met de knop ‘Plotter’ kun je live zien hoe de x-as van de Microbit bekeken wordt en hoe deze door de Microbit te draaien kunt beïnvloeden.
 
-Op een Mac met OS Catalina is het nog wel even prutsen om het direct aan de praat te krijgen. Een snelle work-around is de code eerst op te slaan als HEX en daarna met de hand naar de Microbit te slepen. Met [deze uitleg op GitHub ](https://github.com/mu-editor/mu/issues/998)kan het ook rechtstreeks uit de MU Editor.
+Op een Mac met OS Catalina is het nog wel even prutsen om het direct aan de praat te krijgen. Een snelle work-around is de code eerst op te slaan als HEX en daarna met de hand naar de Microbit te slepen. Met [deze uitleg op GitHub ](https://github.com/mu-editor/mu/issues/998) kan het ook rechtstreeks uit de MU Editor.
 
 Via [Codewith.MU](https://codewith.mu/en/tutorials/1.0/microbit). (CC BY-NC-SA 4.0)
 
@@ -56,4 +29,4 @@ else:
 print (accelerometer.get_values())
 ```
 
-<figure class="wp-block-image size-large">![](https://i0.wp.com/microbit.studio/wp-content/uploads/2020/04/microbit_plotter.gif?fit=629%2C358&ssl=1)</figure>
+<figure class="wp-block-image size-large">![](/assets/images/wp-content/uploads/2020/04/microbit_plotter.gif)</figure>
