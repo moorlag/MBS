@@ -1,14 +1,8 @@
 ---
-id: 462
+
 title: 'De tien van Ramon: <br> Stappenteller!'
 date: '2019-07-10T09:34:10+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=462'
-permalink: /de-tien-van-ramon-stappenteller/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2017/07/emma-simpson-153970-88x88.jpg
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - 'De tien van Ramon'
     - Experimenten
@@ -18,7 +12,7 @@ categories:
 
 <span style="color: #808080;">*Ook wel een podometer genoemd*</span>
 
-![](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/07/accelerometer_xyz.png?resize=204%2C155)Een stappenteller werkt op basis van een accelerometersensor. Deze sensor (formaat halve rijstkorrel) kan twee dingen meten. Behalve de richting kan ook de snelheid in die richting bepaald worden. Voor dit experiment maken we alleen gebruik van [shake](https://www.microbit.co.uk/functions/on-shake). In Micro Python heet het [gesture](http://microbit-micropython.readthedocs.io/en/latest/tutorials/gestures.html). In een vervolgbericht ga ik dieper in op Gestures. Behalve shake kan Micro Python ook de kracht meten van een beweging veel meer meten; `<span class="pre">up</span>`, `<span class="pre">down</span>`, `<span class="pre">left</span>`, `<span class="pre">right</span>`, `<span class="pre">face</span> <span class="pre">up</span>`, `<span class="pre">face</span> <span class="pre">down</span>`, `<span class="pre">freefall</span>`, `<span class="pre">3g</span>`, `<span class="pre">6g</span>`, `<span class="pre">8g</span>`, `<span class="pre">shake</span>`. Een behoorlijke lijst voor zo’n kleine sensor. Daarom later meer. Nu gaan we eerst een eenvoudige stappenteller maken!
+![](/assets/images/wp-content/uploads/2017/07/accelerometer_xyz.png)Een stappenteller werkt op basis van een accelerometersensor. Deze sensor (formaat halve rijstkorrel) kan twee dingen meten. Behalve de richting kan ook de snelheid in die richting bepaald worden. Voor dit experiment maken we alleen gebruik van [shake](https://www.microbit.co.uk/functions/on-shake). In Micro Python heet het [gesture](http://microbit-micropython.readthedocs.io/en/latest/tutorials/gestures.html). In een vervolgbericht ga ik dieper in op Gestures. Behalve shake kan Micro Python ook de kracht meten van een beweging veel meer meten; `<span class="pre">up</span>`, `<span class="pre">down</span>`, `<span class="pre">left</span>`, `<span class="pre">right</span>`, `<span class="pre">face</span> <span class="pre">up</span>`, `<span class="pre">face</span> <span class="pre">down</span>`, `<span class="pre">freefall</span>`, `<span class="pre">3g</span>`, `<span class="pre">6g</span>`, `<span class="pre">8g</span>`, `<span class="pre">shake</span>`. Een behoorlijke lijst voor zo’n kleine sensor. Daarom later meer. Nu gaan we eerst een eenvoudige stappenteller maken!
 
 ## Hoe werkt de programmacode?
 
@@ -28,7 +22,7 @@ In dit experiment gebruik van een functie. Binnen in deze functie wordt het geta
 
 Met deze programmacode kun je direct aan de slag! Je kunt deze rechtstreeks overnemen. Aan het einde van de functioneren main () zie je wat er gebeurd als je op A drukt. het laat het nummer zien dat in steps zit; voor 1,5 seconde. Daarna gaat de functie weer verder met tellen.
 
-<div class="wp-caption alignnone" id="attachment_526" style="width: 310px">![Programmacode stappenteller](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/07/Step_Counter___Make_and_code_activities__projects_and_apps_to_learn_about_technology___Technology_Will_Save_Us.png?resize=300%2C279)Programmacode stappenteller
+<div class="wp-caption alignnone" id="attachment_526" style="width: 310px">![Programmacode stappenteller](https:///assets/images//wp-content/uploads/2017/07/Step_Counter___Make_and_code_activities__projects_and_apps_to_learn_about_technology___Technology_Will_Save_Us.png)Programmacode stappenteller
 
 </div>## Uitdagingen
 

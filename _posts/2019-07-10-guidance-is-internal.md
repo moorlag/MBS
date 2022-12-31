@@ -1,14 +1,7 @@
 ---
-id: 502
 title: 'Guidance is internal'
 date: '2019-07-10T06:31:01+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=502'
-permalink: /guidance-is-internal/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2017/07/STS-133_Discovery_Lift_Off_Launch_Pad_39A_KSC-88x88.jpg
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - Experimenten
 ---

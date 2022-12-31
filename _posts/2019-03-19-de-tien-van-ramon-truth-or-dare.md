@@ -2,14 +2,7 @@
 id: 388
 title: 'De tien van Ramon: Truth or dare'
 date: '2019-03-19T13:50:06+00:00'
-author: ramon
-excerpt: 'In deze ''Tien van Ramon'' maken we een ''Truth or Dare'' machine. In eenvoudig Nederlands maken we een apparaat dat iemand kan aanwijzen en ook nog zegt of het een truth of een dare moet beantwoorden!'
-layout: post
-guid: 'http://microbit.studio/?p=388'
-permalink: /de-tien-van-ramon-truth-or-dare/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2019/03/photo-1485550409059-9afb054cada4-88x88.jpeg
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - 'De tien van Ramon'
     - Experimenten
@@ -48,7 +41,7 @@ We gaan een Truth or Dare machine maken. Er zijn twee keuzes, ‘De waarheid’ 
 
 Het bekende ‘on shake’ blokje gaan we gebruiken. Zodra er een schudding waargenomen wordt zal het programma starten. We kiezen een random getal tussen de 0 en 1. Met een waarde 0 vertel je een *waarheid*. Met ‘alle andere waarden dus ook 1’ vertel je een *dare*.
 
-<figure class="wp-block-image alignnone size-large wp-image-364 size-medium is-style-default">![](https://i0.wp.com/microbit.studio/wp-content/uploads/2021/01/Screenshot-2021-01-21-at-14.07.45-413x339.png?resize=413%2C339&ssl=1)<figcaption>On Shake</figcaption></figure>Je ziet een if else blok staan. Hiermee heb je twee keuzes. Als waarde is 0 dan wordt het eerste segement uitgevoegd. Bij alle andere waarden het tweede segment.
+<figure class="wp-block-image alignnone size-large wp-image-364 size-medium is-style-default">![](/assets/images/wp-content/uploads/2021/01/Screenshot-2021-01-21-at-14.07.45-413x339.png)<figcaption>On Shake</figcaption></figure>Je ziet een if else blok staan. Hiermee heb je twee keuzes. Als waarde is 0 dan wordt het eerste segement uitgevoegd. Bij alle andere waarden het tweede segment.
 
 Onderstaande Javascript code is hetzelfde als hierboven. Zie je op regel 1 dat er staat **‘let Random = o’**? Hiermee wordt een **variable** gemaakt. De naam variable zegt al wat het doet… zonder het uit te leggen. **Het is een woord dat een waarde kan bevatten**. In dit voorbeeld wordt Random de waarde 0 gegeven. Erna zie je dat Random = randint(0, 1). De variable krijgt daarmee een waarde die random is, een int (dus een getal is) en een waarde tussen de 0,1 heeft. Heel veel complexe concepten in een keer uitgelegd en **allemaal in een (rood) blokje** in de blokken editor.
 

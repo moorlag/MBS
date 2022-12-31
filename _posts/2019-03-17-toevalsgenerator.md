@@ -2,13 +2,7 @@
 id: 363
 title: 'De tien van Ramon: Toevalsgenerator'
 date: '2019-03-17T13:15:43+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=363'
-permalink: /toevalsgenerator/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2017/03/mohammad-faruque-190945_jpg-88x88.png
+last_modified_at: '2022-12-30T00:00:00+00:00'
 categories:
     - 'Aan de slag'
     - 'De tien van Ramon'
@@ -48,25 +42,25 @@ We gaan een dobbelsteen maken! In de Micro:bit zit een versnellingssensor. In co
 
 Er is een groot aantal blokken nodig om deze dobbelsteen te maken. We beginnen met <span style="color: #ff00ff;">ON SHAKE</span>. Deze kun je vinden in het menu <span style="color: #ff00ff;">INPUT</span>. Daarnaast moeten we nog een variabele maken. Zoals je hieronder kunt zien zit er een <span style="color: #ff0000;">functie</span> in. Daarna wordt er aan deze variabele een random variable toegevoegd. Variabelen vind je in het menu onder <span style="color: #ff0000;">VARIABELE</span>. In het menu <span style="color: #993366;">MATH</span> vind je <span style="color: #993366;">‘Pick random 0 to 0’. <span style="color: #000000;">Daarna hoef je alleen nog maar de laatste nul te vervangen door 5.</span></span> Waarom 0 tot 5? Dat lees je hieronder!
 
-<div class="wp-caption alignnone" id="attachment_364" style="width: 310px">![Dobbelsteen stap 1](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/dice_roll_activity_-_Microsoft_MakeCode.png?resize=300%2C71)Dobbelsteen toevalsgenerator stap 1
+<div class="wp-caption alignnone" id="attachment_364" style="width: 310px">![Dobbelsteen stap 1](/assets/images/wp-content/uploads/2017/03/dice_roll_activity_-_Microsoft_MakeCode.png)Dobbelsteen toevalsgenerator stap 1
 
 </div>Met bovenstaande blokken wordt er al een willekeurig getal tussen in het bereik van nul tot vijf gekozen. Wij vinden dat tellen start bij één. Een computer begint te tellen bij nul. Vandaar dat het bereik nul tot vijf heeft.
 
 We gebruiken een aantal <span style="color: #339966;">IF THEN ELSE</span> blokken. Deze kun je vinden in het menu onder <span style="color: #339966;">LOGIC</span>. Zoals je zit in de afbeelding hieronder ‘If Gooi = 5’ zie je in het LED scherm 6 ogen. Dit gaan we ook doen voor ‘If Gooi = 4’.
 
-<div class="wp-caption alignnone" id="attachment_365" style="width: 267px">![Dobbelsteen stap 2](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-5.png?resize=257%2C300)Dobbelsteen stap 2
+<div class="wp-caption alignnone" id="attachment_365" style="width: 267px">![Dobbelsteen stap 2](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-5.png)Dobbelsteen stap 2
 
 </div>Met bovenstaand instructie maak je ook de ‘If Gooi = 3’, ‘If Gooi = 2’ en ‘If Gooi = 1’. Voor de nul gebruiken we de ‘If then Else’.
 
-![](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-6.png?resize=94%2C300 "De tien van Ramon - Forever")
+![](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-6.png "De tien van Ramon - Forever")
 
 Het laatste blokje om de één te gooien kun je maken met onderstaande afbeelding.
 
-<div class="wp-caption alignnone" id="attachment_367" style="width: 232px">![Dobbelsteen stap 4](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-7.png?resize=222%2C275 "De tien van Ramon - On shake")Dobbelsteen stap 4
+<div class="wp-caption alignnone" id="attachment_367" style="width: 232px">![Dobbelsteen stap 4](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-7.png "De tien van Ramon - On shake")Dobbelsteen stap 4
 
 </div>Hieronder zie je hoe een variabele vastgesteld wordt.
 
-<div class="wp-caption alignnone" id="attachment_344" style="width: 310px">![De tien van Ramon - variabele](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-4.png?resize=300%2C247 "De tien van Ramon - variabele")De tien van Ramon – variabele
+<div class="wp-caption alignnone" id="attachment_344" style="width: 310px">![De tien van Ramon - variabele](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-4.png "De tien van Ramon - variabele")De tien van Ramon – variabele
 
 </div>## Extra opdracht
 
