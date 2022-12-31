@@ -2,13 +2,8 @@
 id: 337
 title: 'De tien van Ramon: Stappenteller'
 date: '2019-03-14T21:49:04+00:00'
-author: ramon
-layout: post
-guid: 'http://microbit.studio/?p=337'
-permalink: /de-10-van-ramon-stappenteller/
-twitterCardType:
-    - summary_large_image
-image: /wp-content/uploads/2017/03/matt-lee-19500-88x88.jpg
+last_modified_at: '2022-12-31T00:00:00+00:00'
+
 categories:
     - 'Aan de slag'
     - Experimenten
@@ -39,19 +34,19 @@ Er zijn drie blokken nodig om het programma iets te laten doen. Deze drie blokke
 
 Met het blokje ON START wordt een beginwaarde van het programma vastgelegd. Deze beginwaarde noem je variabele. In een variabele kan een getal (een zonder een komma! of een woord staan. In dit geval wordt er een getal opgeslagen.
 
-<div class="wp-caption alignnone" id="attachment_341" style="width: 222px">![De tien van Ramon - On start](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-1.png?resize=212%2C79 "De tien van Ramon - On start")De tien van Ramon – On start
+<div class="wp-caption alignnone" id="attachment_341" style="width: 222px">![De tien van Ramon - On start](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-1.png "De tien van Ramon - On start")De tien van Ramon – On start
 
 </div>Door het blokje FOREVER kunnen we iets altijd laten zien. In dit blok staat een subblokje. Show number laat een getal zien.
 
-<div class="wp-caption alignnone" id="attachment_342" style="width: 278px">![De tien van Ramon - Forever](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-2.png?resize=268%2C94 "De tien van Ramon - Forever")De tien van Ramon – Forever
+<div class="wp-caption alignnone" id="attachment_342" style="width: 278px">![De tien van Ramon - Forever](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-2.png"De tien van Ramon - Forever")De tien van Ramon – Forever
 
 </div>Het laatste blokje is het veranderen van een variabele. ON SHAKE telt +1 op bij de waarde van de variabele. Hieronder zie je hoe een variabele vastgelegd wordt.
 
-<div class="wp-caption alignnone" id="attachment_343" style="width: 259px">![De tien van Ramon - On shake](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-3.png?resize=249%2C99 "De tien van Ramon - On shake")De tien van Ramon – On shake
+<div class="wp-caption alignnone" id="attachment_343" style="width: 259px">![De tien van Ramon - On shake](/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-3.png "De tien van Ramon - On shake")De tien van Ramon – On shake
 
 </div>Hieronder zie je hoe een variabele vastgesteld wordt.
 
-<div class="wp-caption alignnone" id="attachment_344" style="width: 310px">![De tien van Ramon - variabele](https://i0.wp.com/microbit.studio/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-4.png?resize=300%2C247 "De tien van Ramon - variabele")De tien van Ramon – variabele
+<div class="wp-caption alignnone" id="attachment_344" style="width: 310px">![De tien van Ramon - variabele](h/assets/images/wp-content/uploads/2017/03/Untitled_-_pxt_microbit_org-4.png?resiz"De tien van Ramon - variabele")De tien van Ramon – variabele
 
 </div>## Extra opdracht
 
